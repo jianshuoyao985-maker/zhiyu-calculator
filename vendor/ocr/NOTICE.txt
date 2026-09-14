@@ -1,0 +1,7 @@
+OCR dependencies bundled locally:
+Tesseract.js 7.0.0 — Apache-2.0 — https://github.com/naptha/tesseract.js
+Tesseract.js-core — Apache-2.0 — https://github.com/naptha/tesseract.js-core
+Chinese trained data: @tesseract.js-data/chi_sim 1.0.0, 4.0.0_best_int.
+English trained data: system tessdata/eng.traineddata.
+Tesseract language data — Apache-2.0 — https://github.com/tesseract-ocr/tessdata
+See core/LICENSE and bundled JavaScript license notices.
